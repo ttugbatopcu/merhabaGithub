@@ -1,4 +1,4 @@
-public class C01_Github {
+public class P01_Github {
 
     public static void main(String[] args) {
 
@@ -8,4 +8,7 @@ public class C01_Github {
 
 
     }
+    // git add .
+    // git commit -m "mesajınız"
+    // git push
 }
